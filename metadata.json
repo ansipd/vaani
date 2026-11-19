@@ -1,0 +1,6 @@
+{
+  "name": "Vaani — Offline English & Hindi Kokoro TTS",
+  "description": "Full-featured offline English and Hindi neural Text-to-Speech PWA powered by Kokoro-82M ONNX with voice blending, Devanagari G2P, offline audio library, and a LiteRT/ONNX Android Studio project generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
